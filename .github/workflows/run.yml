@@ -22,10 +22,10 @@ jobs:
         with:
           ref: hidden
 
-      - name: Checkout Loyalsoldier/domain-list-custom
+      - name: Checkout najloa/domain-list-custom
         uses: actions/checkout@v4
         with:
-          repository: Loyalsoldier/domain-list-custom
+          repository: najloa/domain-list-custom
           path: custom
 
       - name: Checkout v2fly/domain-list-community
