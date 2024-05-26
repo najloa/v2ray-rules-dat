@@ -1,3 +1,4 @@
+domain:hooligansmagazine.com
 domain:engage.cloudflareclient.com
 domain:bunkr.nu
 domain:bunkrrr.org
