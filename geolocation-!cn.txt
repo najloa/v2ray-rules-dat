@@ -1,3 +1,4 @@
+domain:inari.site
 domain:tickzoo.tv
 domain:hsex.icu
 domain:igram.world
