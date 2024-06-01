@@ -97,7 +97,6 @@ domain:x.com
 domain:xmegadrive.com
 domain:ya.ru
 domain:yandex.net
-domain:yandex.ru
 domain:yastatic.net
 domain:yimg.com
 domain:zootracker.vip
