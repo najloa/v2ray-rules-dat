@@ -95,9 +95,6 @@ domain:freeimage.host
 domain:giphy.com
 domain:x.com
 domain:xmegadrive.com
-domain:ya.ru
-domain:yandex.net
-domain:yastatic.net
 domain:yimg.com
 domain:zootracker.vip
 domain:zoovilleforum.net
