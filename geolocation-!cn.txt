@@ -1,3 +1,4 @@
+domain:sougouwiki.com
 domain:like.video
 domain:pse.is
 domain:ztube.org
