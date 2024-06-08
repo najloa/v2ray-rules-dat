@@ -1,3 +1,4 @@
+domain:xbx.lv
 domain:sheshebrand.com
 domain:vimeocdn.com
 domain:sougouwiki.com
