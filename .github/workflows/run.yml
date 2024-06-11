@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
+      - hidden
     paths-ignore:
       - "**/README.md"
 jobs:
