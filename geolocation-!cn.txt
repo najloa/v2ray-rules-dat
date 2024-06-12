@@ -1,3 +1,4 @@
+domain:loyalfans.com
 domain:banned.video
 domain:idf.il
 domain:xbx.lv
