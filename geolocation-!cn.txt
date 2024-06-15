@@ -1,3 +1,4 @@
+domain:the-sun.com
 domain:loyalfans.com
 domain:banned.video
 domain:idf.il
