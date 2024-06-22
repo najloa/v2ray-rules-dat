@@ -1,4 +1,4 @@
-name: Build V2Ray rules dat files
+name: Build rules dat files
 on:
   workflow_dispatch:
   push:
@@ -118,6 +118,13 @@ jobs:
           zip rules.zip proxy-list.txt geoip-only-cn-private.dat geosite.dat
           sha256sum geosite.dat > geosite.dat.sha256sum
           sha256sum rules.zip > rules.zip.sha256sum
+
+      - uses: dev-drprasad/delete-older-releases@v0.3.2
+        if: steps.build.outputs.skip != 'true'
+        with:
+          keep_latest: 2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Release and upload assets
         uses: svenstaro/upload-release-action@v2
