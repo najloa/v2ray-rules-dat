@@ -1,3 +1,4 @@
+domain:moxing.show
 domain:bunkr.ci
 domain:tvbs.com.tw
 domain:the-sun.com
